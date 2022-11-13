@@ -11,5 +11,9 @@ public class Main {
         int[] arr3 = {25,24,33,14,5,28};
         LargestElement larObj = new LargestElement();
         larObj.largestElement(arr3);
+
+        int[] arr4 = {-1,5,0,8,34};
+        SmallestElement smaObj = new SmallestElement();
+        smaObj.smallestElement(arr4);
     }
 }
