@@ -19,5 +19,9 @@ public class Main {
         int[] arr5 = {1,2,4,4,5,6,10,8,9};
         EvenPositionElement evenObj = new EvenPositionElement();
         evenObj.evenPositionElement(arr5);
+
+        int[] arr6 = {1,2,3,4,10,6,7,8,9};
+        ReverseElementsOfArray revObj = new ReverseElementsOfArray();
+        revObj.reverseElementsOfArray(arr6);
     }
 }
