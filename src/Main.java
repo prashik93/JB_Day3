@@ -15,5 +15,9 @@ public class Main {
         int[] arr4 = {-1,5,0,8,34};
         SmallestElement smaObj = new SmallestElement();
         smaObj.smallestElement(arr4);
+
+        int[] arr5 = {1,2,4,4,5,6,10,8,9};
+        EvenPositionElement evenObj = new EvenPositionElement();
+        evenObj.evenPositionElement(arr5);
     }
 }
