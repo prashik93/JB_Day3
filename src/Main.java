@@ -31,5 +31,9 @@ public class Main {
         int[] arr8 = {1,2,3,4,5,4,3,2,5};
         DuplicateElements dupObj = new DuplicateElements();
         dupObj.duplicateElements(arr8);
+
+        int[] arr9 = {2,3,5,7,8,1,9,4,6};
+        AscendingAnArray ascObj = new AscendingAnArray();
+        ascObj.ascendingAnArray(arr9);
     }
 }
